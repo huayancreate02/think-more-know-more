@@ -1,5 +1,5 @@
-# think-more-know-more
-think more know more
+# （思维大转弯）think-more-know-more
+
 
 1.每日一题 每天来一题活跃下思维
 2.柯南侦探,没有什么线索是我柯南发现不了的
